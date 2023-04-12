@@ -17,7 +17,8 @@ metrics:
 
 example_tasks:
 
-- vivek.r.raja/ecoli_dataset/predict_protein_expression
+- id: vivek.r.raja/ecoli_dataset/predict_protein_expression
+  note: Predict protein expression levels in E. coli using promoter sequences
 
 ---
 
