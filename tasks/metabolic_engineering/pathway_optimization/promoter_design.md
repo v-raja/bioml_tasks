@@ -1,15 +1,9 @@
 ---
-
 id: promoter_design
-
 name: Promoter Sequence Design
-
 nav_name: Promoter Design
-
 task_subcategory_id: mbe_pathway_optimization
-
 summary: Design optimal promoter sequences for improved gene expression and metabolic pathway performance.
-
 metrics:
 
 - r2_score
@@ -21,7 +15,6 @@ example_tasks:
   note: Predict protein expression levels in E. coli using promoter sequences
 
 ---
-
 The design of promoter sequences is a key task in metabolic engineering, aimed at optimizing gene expression levels to
 maximize product yields or improve cellular performance. Promoters are DNA sequences located upstream of a gene that
 regulate gene expression by binding to transcription factors and RNA polymerase. The choice of a promoter sequence can
@@ -83,8 +76,8 @@ sequence space and identify optimal promoter sequences.
 
 # Useful Resources
 
-- [Designing Synthetic Promoters: A Computational Approach](https://doi.org/10.1021/acssynbio.7b00360)
-- [Deep Learning-Based Design of Synthetic Promoters](https://doi.org/10.1021/acssynbio.9b00395)
-- [iGEM Promoter Engineering Guide](https://2021.igem.org/Resources/Promoter_Engineering)
-- [Eukaryotic Promoter Database (EPD)](https://epd.epfl.ch//index.php)
-- [Neural Network Promoter Prediction](http://www.fruitfly.org/seq_tools/promoter.html)
+- [ Designing Synthetic Promoters: A Computational Approach ](https://doi.org/10.1021/acssynbio.7b00360)
+- [ Deep Learning-Based Design of Synthetic Promoters ](https://doi.org/10.1021/acssynbio.9b00395)
+- [ iGEM Promoter Engineering Guide ](https://2021.igem.org/Resources/Promoter_Engineering)
+- [ Eukaryotic Promoter Database (EPD) ](https://epd.epfl.ch//index.php)
+- [ Neural Network Promoter Prediction ](http://www.fruitfly.org/seq_tools/promoter.html)
